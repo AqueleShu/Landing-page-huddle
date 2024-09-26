@@ -9,7 +9,7 @@ Uma landing page feita utilizando o frontend mentor
 
 ## Dificuldade que tive fazendo esse projeto
 * Tive uma certa dificuldade em fazer o responsivo do site.
-* não consegui deixar o título e o sub-título da mesma forma da imagem na versão de celular
+* Não consegui deixar o título e o sub-título da mesma forma da imagem na versão de celular
 
 ## Considerações finais
-* fiquei feliz por ser meu primeiro porjeto que fiz sem olhar guia nenhum, usei apenas o que tinha na mente.
+* Fiquei feliz por ser meu primeiro projeto feito sem olhar guia nenhum, usei apenas o que tinha na mente.
